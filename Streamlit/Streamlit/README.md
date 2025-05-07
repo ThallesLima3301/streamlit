@@ -60,8 +60,10 @@ openai_api_key = os.getenv("OPENAI_API_KEY")")
 
 
 
+![Dashboard](../Streamlit/Print/screenshot.png)
 
-![Dashboard](./Print/screenshot.png)
+
+
 ---
 
 ## 💬 Primeira Experiência
