@@ -58,8 +58,10 @@ openai_api_key = os.getenv("OPENAI_API_KEY")")
 
 ## 🧪 Exemplo Visual
 
-![Dashboard](../Print/screenshot.png)
 
+
+
+![Dashboard](./Print/screenshot.png)
 ---
 
 ## 💬 Primeira Experiência
